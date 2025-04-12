@@ -8,6 +8,10 @@ Once I was succesfully in the database, I was able to manipulate quereies into c
 ![image](https://github.com/user-attachments/assets/2cea315f-3bb9-4e91-85c1-285d11a12d5d)
 
 I then was able to create a whole new database which was named New House
+
 ![image](https://github.com/user-attachments/assets/cd2c20fa-be3a-436b-9bb4-c1a74bebebf4)
 
+
 Finally, I created the SalesTable within the New House database
+
+![image](https://github.com/user-attachments/assets/9a7754bd-eb36-4638-8c11-49e02abb22bf)
